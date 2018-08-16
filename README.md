@@ -16,9 +16,18 @@
 </p>
 
 <h2> :camera: Looks</h2>
-<ul>
-  <li><a href="">App1</a></li>
-</ul>
+
+<h4> i3wm Setup </h4>
+<p>&emsp;&emsp;Table of contents:
+VISUAL TWEAKS
+&emsp; Font
+
+GLOBAL VARIABLES
+&emsp; Mod Key
+&emsp;
+
+
+</p>
 
 <h2> :octocat: Scripts</h2>
 
