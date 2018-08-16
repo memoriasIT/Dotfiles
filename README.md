@@ -15,9 +15,9 @@
   >_ firefox<br>
 </p>
 
-<h1 align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/memoriasIT/Dotfiles-WIP/master/img/separator.png" width="500">
-</h1>
+</p>
 
 <img src="https://raw.githubusercontent.com/memoriasIT/Dotfiles-WIP/master/img/todo.png" height="40">
 <p>
