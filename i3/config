@@ -37,7 +37,8 @@ set $ws9 "9"
 set $ws10 "10"
 
 
-# >_VIM Arrows set $up k
+# >_VIM Arrows 
+set $up k
 set $down j
 set $left l
 set $right h
