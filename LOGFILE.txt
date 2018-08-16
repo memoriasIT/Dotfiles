@@ -6,3 +6,7 @@ HISTORY:
 
 PLANNING:
 [xx/08/2018] - Configure i3fyra
+
+[xx/08/2018] - Firefox configuration
+[xx/08/2018] - Firefox configuration
+[xx/08/2018] - Firefox configuration
