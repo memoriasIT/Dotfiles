@@ -52,7 +52,7 @@ set $right h
 
 	
 # >_Change ESC for CAPS LOCK (VIM Setup)
-exec_always --no-startup-id setxkbmap -option caps:swapescape
+#exec_always --no-startup-id setxkbmap -option caps:swapescape
 
 # >_Change Delay of Key Repeat
 exec_always --no-startup-id xset r rate 220 40
