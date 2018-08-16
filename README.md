@@ -6,7 +6,7 @@
 <p> I am literally ricing everything, starting from i3 but with plans to edit all apps so I make it as confortable and efficient as it can be. </p>
 <p> <b>TO-DO:</b> <br>
   >_ i3wm<br>
-  	* Media Keys (Skip song, play, pause, brightness, etc.)
+  	&emsp;* Media Keys (Skip song, play, pause, brightness, etc.)<br>
   >_ zsh<br>
   >_ vim<br>
   >_ ranger<br>
