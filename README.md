@@ -15,7 +15,7 @@
   >_ firefox<br>
 </p>
 
-
+```
 <p> <b>T0DO:</b> <br>
   >_ i3wm<br>
   	&emsp;* Media Keys (Skip song, play, pause, brightness, etc.)<br>
@@ -26,6 +26,6 @@
   >_ dunst<br>
   >_ firefox<br>
 </p>
-
+```
 
 
