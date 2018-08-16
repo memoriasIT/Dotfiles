@@ -18,7 +18,8 @@
 <h2> :camera: Looks</h2>
 
 <h3> i3wm Setup </h3>
-<h4>&emsp;&emsp;Table of contents:</h4>
+<h4>Table of contents:</h4>
+<br>
 <p>VISUAL TWEAKS</p>
 <p>&emsp; Font</p>
 
