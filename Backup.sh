@@ -45,5 +45,6 @@ cd ~/desktop/Dotfiles-WIP/
 git init
 git add .
 git commit -m "New files papito"
+git push
 
 echo "Done";

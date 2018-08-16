@@ -80,10 +80,10 @@ bindsym Mod1+Right focus right
 
 # >_Move Focused Window
 # Vim Setup
-bindsym Mod1+Shift+$left move left
+bindsym Mod1+Shift+$left move right
 bindsym Mod1+Shift+$down move down
 bindsym Mod1+Shift+$up move up 
-bindsym Mod1+Shift+$right move right
+bindsym Mod1+Shift+$right move left
 # Cursor Keys
 bindsym mod1+shift+left move left
 bindsym Mod1+Shift+Down move down
@@ -173,8 +173,27 @@ mode "resize" {
 bindsym Mod1+r mode "resize"
 
 
+# >_M0DE 1: Move
 
+bindsym $MOD+m mode "move" focus floating
+mode "move" {
+	bindsym $mod+Tab focus right
+	# Arrow Keys
+	bindsym Left  move left
+	bindsym Down  move down
+	bindsym Up    move up
+	bindsym Right move right
+	
+	# Vim Setup
+	bindsym h     move left
+	bindsym j     move down
+	bindsym k     move up
+	bindsym l     move right
 
+	# Back To Normal
+	bindsym Return mode "default"
+	bindsym Escape mode "default"
+}
 
 
 
