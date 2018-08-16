@@ -15,8 +15,9 @@
   >_ firefox<br>
 </p>
 
-
-<img src="https://raw.githubusercontent.com/memoriasIT/Dotfiles-WIP/master/img/separator.png" width="500">
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/memoriasIT/Dotfiles-WIP/master/img/separator.png" width="500">
+</h1>
 
 <p> <b>T0DO:</b> <br>
   >_ i3wm<br>
