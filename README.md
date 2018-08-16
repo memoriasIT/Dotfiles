@@ -15,21 +15,17 @@
   >_ firefox<br>
 </p>
 
-<h2> :camera: Looks</h2>
 
-
-
-
-
-
-
-<h2> :octocat: Scripts</h2>
-
-<ul>
-  <li><a href="">Script1</a></li>
-</ul>
-
-
+<p> <b>T0DO:</b> <br>
+  >_ i3wm<br>
+  	&emsp;* Media Keys (Skip song, play, pause, brightness, etc.)<br>
+  >_ zsh<br>
+  >_ vim<br>
+  >_ ranger<br>
+  >_ polybar<br>
+  >_ dunst<br>
+  >_ firefox<br>
+</p>
 
 
 
