@@ -17,17 +17,17 @@
 
 <h2> :camera: Looks</h2>
 
-<h4> i3wm Setup </h4>
-<p>&emsp;&emsp;Table of contents:
-VISUAL TWEAKS
-&emsp; Font
+<h3> i3wm Setup </h3>
+<h4>&emsp;&emsp;Table of contents:</h4>
+<p>VISUAL TWEAKS</p>
+<p>&emsp; Font</p>
 
-GLOBAL VARIABLES
-&emsp; Mod Key
-&emsp;
+<p>GLOBAL VARIABLES</p>
+<p>&emsp; Mod Key</p>
+<p>&emsp;</p>
 
 
-</p>
+
 
 <h2> :octocat: Scripts</h2>
 
