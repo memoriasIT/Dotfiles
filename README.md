@@ -18,14 +18,18 @@
 <h2> :camera: Looks</h2>
 
 <h3> i3wm Setup </h3>
-<h4>Table of contents:</h4>
-<br>
+
 <p>VISUAL TWEAKS</p>
 <p>&emsp; Font</p>
 
 <p>GLOBAL VARIABLES</p>
 <p>&emsp; Mod Key</p>
-<p>&emsp;</p>
+<p>&emsp; Workspaces </p>
+<p>&emsp; VIM Arrows </p>
+
+<p>SETTINGS</p>
+<p>&emsp; Change ESC for CAPS LOCK </p>
+<p>&emsp;  </p>
 
 
 
