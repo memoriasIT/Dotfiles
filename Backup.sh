@@ -41,4 +41,9 @@ done
 printf "\nBackup Done\n"
 read -p "want to upload to github? (Y/N): " confirm && [[ $confirm == [yY] || $confirm == [yY][eE][sS] ]] || exit 1
 
-echo "uploading to github lol";
+cd ~/desktop/Dotfiles-WIP/
+git init
+git add .
+git commit -m "New files papito"
+
+echo "Done";

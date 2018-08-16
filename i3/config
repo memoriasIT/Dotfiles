@@ -21,8 +21,8 @@ font pango:monospace 8
 #	>>>  GLOBAL VARIABLES	<<< 
 
 # >_Mod Key
-# This crashes the config
-#set $MOD "Mod1"
+# This _sometimes_(?) crashes the config
+set $MOD Mod1
 
 # >_Workspaces
 set $ws1 "1"
@@ -37,8 +37,7 @@ set $ws9 "9"
 set $ws10 "10"
 
 
-# >_VIM Arrows
-set $up k
+# >_VIM Arrows set $up k
 set $down j
 set $left l
 set $right h
@@ -47,20 +46,35 @@ set $right h
 
 
 
+
+
+#	>>>	 SETTINGS	<<< 
+
+	
+# >_Change ESC for CAPS LOCK (VIM Setup)
+exec_always --no-startup-id setxkbmap -option caps:swapescape
+
+# >_Change Delay of Key Repeat
+exec_always --no-startup-id xset r rate 220 40
+
+
+
+
+
 #	>>>	PRODUCTIVITY	<<<
 
-#	>>_Focus<<
 
+#	>>_Focus<< 
 # >_Change Focused Window
 # Vim Setup
 bindsym Mod1+$left focus left
 bindsym Mod1+$down focus down
 bindsym Mod1+$up focus up
-bindsym Mod1+$right focus right
+bindsym Mod1+$right focus right 
 # Cursor Keys
 bindsym Mod1+Left focus left
 bindsym Mod1+Down focus down
-bindsym Mod1+Up focus up
+bindsym Mod1+Up focus up 
 bindsym Mod1+Right focus right
 
 
@@ -85,6 +99,10 @@ bindsym Mod1+a focus parent
 
 # >_Focus Child
 #bindsym Mod1+d focus child
+
+
+
+
 
 
 #	>>_Window Management<<
@@ -194,6 +212,10 @@ bindsym Mod1+Shift+0 move container to workspace $ws10
 
 
 
+
+
+
+
 #	>>>	NOT WORKING?	<<<
 
 # use Mouse+Mod1 to drag floating windows to their wanted position
@@ -204,6 +226,11 @@ bindsym Mod1+shift+o split h
 
 # split in vertical orientation
 bindsym Mod1+v split v
+
+
+
+
+
 
 
 
@@ -255,6 +282,7 @@ bindsym Mod1+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcu
 bar {
         status_command i3status
 }
+
 
 
 
