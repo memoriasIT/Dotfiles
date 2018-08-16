@@ -17,17 +17,22 @@
 
 <h2> :camera: Looks</h2>
 
-<h4> i3wm Setup </h4>
-<p>&emsp;&emsp;Table of contents:
-VISUAL TWEAKS
-&emsp; Font
+<h3> i3wm Setup </h3>
 
-GLOBAL VARIABLES
-&emsp; Mod Key
-&emsp;
+<p>VISUAL TWEAKS</p>
+<p>&emsp; Font</p>
+
+<p>GLOBAL VARIABLES</p>
+<p>&emsp; Mod Key</p>
+<p>&emsp; Workspaces </p>
+<p>&emsp; VIM Arrows </p>
+
+<p>SETTINGS</p>
+<p>&emsp; Change ESC for CAPS LOCK </p>
+<p>&emsp;  </p>
 
 
-</p>
+
 
 <h2> :octocat: Scripts</h2>
 
