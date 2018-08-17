@@ -31,7 +31,7 @@ echo -n ' '
 while $cond
 do
 	# Copy i3 config to folder
-	sudo cp ~/.config/i3/config $PWD/i3 	
+	sudo cp ~/.config/i3/ $PWD/i3 	
 
 	
 	printf "\b${sp:i++%${#sp}:1}"
