@@ -119,6 +119,11 @@ fi
 
 
 # >>> Aliases <<<
+# [ Directory ]
+# Tree show .files without .git
+alias treeh='tree -a -I .git'
+
+
 
 # [ i3wm ]
 #i3fyra
