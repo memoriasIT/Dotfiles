@@ -23,6 +23,8 @@ HISTORY:
 PLANNING: 
 [xx/08/2018] - Configure i3fyra  # NOT WORKING TEMP.
 
+[xx/08/2018] - Configure i3gaps
+
 [xx/08/2018] - Firefox configuration
 [xx/08/2018] - Firefox configuration
 [xx/08/2018] - Firefox configuration
