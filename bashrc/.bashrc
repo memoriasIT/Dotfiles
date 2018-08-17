@@ -124,6 +124,6 @@ fi
 #i3fyra
 alias i3fyra='~/.config/i3/scripts/i3fyra.sh'
 #i3list
-alias i3fyra='~/.config/i3/scripts/i3list.sh'
+alias i3list='~/.config/i3/scripts/i3list.sh'
 #i3gw
-alias i3fyra='~/.config/i3/scripts/i3gw.sh'
+alias i3gw='~/.config/i3/scripts/i3gw.sh'
