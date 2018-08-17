@@ -29,6 +29,8 @@ sudo cp -r ~/.config/i3/ $PWD
 # Copy .bashrc to folder
 sudo cp ~/.bashrc $PWD/bashrc
 
+# Copy scripts folder
+sudo cp -r ~/scripts $PWD
 
 printf "\nBackup Done\n"
 read -p "want to upload to github? (Y/N): " confirm && [[ $confirm == [yY] || $confirm == [yY][eE][sS] ]] || exit 1

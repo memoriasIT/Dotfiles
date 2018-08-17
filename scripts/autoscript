@@ -1,0 +1,7 @@
+#!/bin/bash
+SCRIPT_FOLDER="$HOME/scripts"
+SCRIPT_FILE="$SCRIPT_FOLDER/$1"
+
+echo "#!/bin/bash" > $SCRIPT_FILE
+chmod +x $SCRIPT_FILE
+echo "$1 file created"
