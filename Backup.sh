@@ -32,6 +32,9 @@ sudo cp ~/.bashrc $PWD/bashrc
 # Copy scripts folder
 sudo cp -r ~/scripts $PWD
 
+# Copy ascii fonts
+sudo cp -r /usr/share/figlet $PWD
+
 printf "\nBackup Done\n"
 read -p "want to upload to github? (Y/N): " confirm && [[ $confirm == [yY] || $confirm == [yY][eE][sS] ]] || exit 1
 

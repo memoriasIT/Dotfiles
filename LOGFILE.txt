@@ -17,7 +17,8 @@ HISTORY:
 [13/08/2018] - Installation of tools needed (i3, polybar, etc.)
 [15/08/2018] - i3wm config file
 [16/08/2018] - i3wm config file nicer + github repo created
-[17/08/2018] - i3wm config file deleted, i3fyra delayed
+[17/08/2018] - Several scripts created, fixed paths, i3fyra and related delayed for bugs found
+
 
 PLANNING: 
 [xx/08/2018] - Configure i3fyra  # NOT WORKING TEMP.

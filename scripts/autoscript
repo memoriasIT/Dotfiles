@@ -2,6 +2,12 @@
 SCRIPT_FOLDER="$HOME/scripts"
 SCRIPT_FILE="$SCRIPT_FOLDER/$1"
 
-echo "#!/bin/bash" > $SCRIPT_FILE
-chmod +x $SCRIPT_FILE
-echo "$1 file created"
+
+if [[ -f $SCRIPT_FILE ]]; then
+	echo "File already exist"
+else
+	echo "#!/bin/bash" > $SCRIPT_FILE
+	chmod +x $SCRIPT_FILE
+	echo "$1 file created"
+	nvim $SCRIPT_FILE
+fi

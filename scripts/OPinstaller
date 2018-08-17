@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#Toilet
+aptitude install toilet
+
+#LOLCAT
+gem install lolcat
