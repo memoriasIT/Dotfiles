@@ -6,7 +6,7 @@
 <p> I am literally ricing everything, starting from i3 but with plans to edit all apps so I make it as confortable and efficient as it can be. </p>
 <img src="https://raw.githubusercontent.com/memoriasIT/Dotfiles-WIP/master/img/Table%20of%20contents.png" height="40">
 <p>
-  <b>>_</b><a href="https://github.com/memoriasIT/Dotfiles-WIP/tree/master/i3"> i3wm</a><br>
+  <b>>_</b><a href="https://github.com/Airblader/i3"> i3-gaps</a><br>
   >_ zsh<br>
   >_ vim<br>
   >_ ranger<br>
