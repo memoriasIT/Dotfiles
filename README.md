@@ -37,4 +37,11 @@
 
 <img src="https://raw.githubusercontent.com/memoriasIT/Dotfiles-WIP/master/img/scripts.png" height="40">
 <p>
-  <b>>_</b><a href="https://github.com/budlabs/i3ass/tree/master/i3fyra"> i3fyra</a><br>
+  <b>>_</b><a href="https://github.com/budlabs/i3ass/"> i3ass</a> - Better i3 window management<br>
+  <b>>_</b><a href="http://caca.zoy.org/wiki/toilet"> toilet</a> - Ascii art in terminal<br>
+  <b>>_</b><a href="https://github.com/xero/figlet-fonts"> figlet fonts</a> - Set of figlet fonts<br>
+  <b>>_</b><a href="https://github.com/busyloop/lolcat"> lolcat</a> - Rainbows<br>
+  
+  
+  
+</p>
