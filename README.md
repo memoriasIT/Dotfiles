@@ -23,7 +23,7 @@
 <p>
   >_ i3wm<br>
   	&emsp;* Media Keys (Skip song, play, pause, brightness, etc.)<br>
-    &emsp;* Classify commands from the end of the document
+    &emsp;* Classify commands from the end of the document<br>
   >_ zsh<br>
   >_ vim<br>
   >_ ranger<br>
