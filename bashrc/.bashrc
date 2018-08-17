@@ -132,3 +132,7 @@ alias i3fyra='~/.config/i3/scripts/i3fyra.sh'
 alias i3list='~/.config/i3/scripts/i3list.sh'
 #i3gw
 alias i3gw='~/.config/i3/scripts/i3gw.sh'
+#i3get
+alias i3get='~/.config/i3/scripts/i3get.sh'
+#i3sizemode
+alias i3sizemode='~/.config/i3/scripts/i3sizemode.sh'

@@ -17,9 +17,10 @@ HISTORY:
 [13/08/2018] - Installation of tools needed (i3, polybar, etc.)
 [15/08/2018] - i3wm config file
 [16/08/2018] - i3wm config file nicer + github repo created
+[17/08/2018] - i3wm config file deleted, i3fyra delayed
 
-PLANNING:
-[xx/08/2018] - Configure i3fyra
+PLANNING: 
+[xx/08/2018] - Configure i3fyra  # NOT WORKING TEMP.
 
 [xx/08/2018] - Firefox configuration
 [xx/08/2018] - Firefox configuration

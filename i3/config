@@ -58,6 +58,20 @@ set $right h
 # >_Change Delay of Key Repeat
 exec_always --no-startup-id xset r rate 220 40
 
+# >_Reload the Configuration File
+bindsym Mod1+Shift+c reload
+
+# >_Restart i3 
+bindsym Mod1+Shift+r restart
+
+# >_Log out 
+bindsym Mod1+Shift+e exec "i3-nagbar -t warning -m 'Want to log out?' -b 'Yes, exit i3' 'i3-msg exit'"
+
+# >_Start i3bar to display a workspace bar 
+bar {
+        status_command i3status
+}
+
 
 
 
@@ -123,6 +137,13 @@ bindsym Mod1+e layout toggle split
 
 # >_Toggle Tiling / Floating
 bindsym Mod1+Shift+space floating toggle
+
+# >_Move to scratchpad
+bindsym Mod1+Shift+minus move scratchpad
+
+# >_Show/Hide the focused scratchpad window.
+bindsym Mod1+minus scratchpad show
+
 
 
 
@@ -278,30 +299,6 @@ bindsym XF86AudioPrev exec playerctl previous
 
 
 
-# move the currently focused window to the scratchpad
-bindsym Mod1+Shift+minus move scratchpad
-
-# Show the next scratchpad window or hide the focused scratchpad window.
-# If there are multiple scratchpad windows, this command cycles through them.
-bindsym Mod1+minus scratchpad show
-
-# Define names for default workspaces for which we configure key bindings later on.
-# We use variables to avoid repeating the names in multiple places.
-
-
-
-
-# reload the configuration file
-bindsym Mod1+Shift+c reload
-# restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
-bindsym Mod1+Shift+r restart
-# exit i3 (logs you out of your X session)
-bindsym Mod1+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'"
-# Start i3bar to display a workspace bar (plus the system information i3status
-# finds out, if available)
-bar {
-        status_command i3status
-}
 
 
 
