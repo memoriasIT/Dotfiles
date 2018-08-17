@@ -31,6 +31,10 @@
   >_ dunst<br>
   >_ firefox<br>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/memoriasIT/Dotfiles-WIP/master/img/separator.png" width="500">
+</p>
 
-
-
+<img src="https://raw.githubusercontent.com/memoriasIT/Dotfiles-WIP/master/img/scripts.png" height="40">
+<p>
+  <b>>_</b><a href="https://github.com/budlabs/i3ass/tree/master/i3fyra"> i3fyra</a><br>
