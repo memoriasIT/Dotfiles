@@ -23,20 +23,12 @@ echo "       		     MY UNIX WET DREAM            ";
 
 
 echo "Creating Backup Files..."
+# Copy i3 config to folder
+sudo cp -r ~/.config/i3/ $PWD 	
 
-i=1
-cond=true
-sp="/-\|"
-echo -n ' '
-while $cond
-do
-	# Copy i3 config to folder
-	sudo cp ~/.config/i3/ $PWD/i3 	
+# Copy .bashrc to folder
+sudo cp ~/.bashrc $PWD/bashrc
 
-	
-	printf "\b${sp:i++%${#sp}:1}"
-	cond=false
-done
 
 printf "\nBackup Done\n"
 read -p "want to upload to github? (Y/N): " confirm && [[ $confirm == [yY] || $confirm == [yY][eE][sS] ]] || exit 1
