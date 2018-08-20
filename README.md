@@ -45,3 +45,17 @@
   
   
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/memoriasIT/Dotfiles-WIP/master/img/separator.png" width="500">
+</p>
+
+<img src="https://raw.githubusercontent.com/memoriasIT/Dotfiles-WIP/master/img/Shorcuts.png" height="40">
+<h3>
+  >_ i3wm - Alt
+</h3>
+<img src="https://raw.githubusercontent.com/memoriasIT/Dotfiles-WIP/master/img/keyboard-layout(2).png">
+<h3>
+  >_ i3wm - Alt+Shift
+</h3>
+<img src="https://raw.githubusercontent.com/memoriasIT/Dotfiles-WIP/master/img/keyboard-layout.png">
