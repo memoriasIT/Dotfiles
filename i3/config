@@ -162,7 +162,7 @@ bindsym Mod1+d exec dmenu_run
 bindsym Mod1+shift+f exec firefox
 
 # >_i3lock
-bindsym Mod1+x exec i3lock
+bindsym Mod1+shift+x exec i3lock
 
 
 
