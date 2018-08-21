@@ -11,23 +11,19 @@
 #  I3WM                                                             \______/
 
 
-#	>>>	   VISUAL	<<< 
-
-# >_Font
-font pango:monospace 8 
-
-
-
 #	>>>  GLOBAL VARIABLES	<<< 
 
 # >_Mod Key
+
 # This _sometimes_(?) crashes the config
 set $MOD Mod1
 
+
 # >_Workspaces
-set $ws1 "1"
-set $ws2 "2"
-set $ws3 "3"
+
+set $ws1 "1: Main"
+set $ws2 "2: Programming"
+set $ws3 "3: Emmacs"
 set $ws4 "4"
 set $ws5 "5"
 set $ws6 "6"
@@ -37,11 +33,57 @@ set $ws9 "9"
 set $ws10 "10"
 
 
+
 # >_VIM Arrows 
+
 set $up k
 set $down j
 set $left l
 set $right h
+
+
+
+# >_Colors
+
+set $bg-color            #00BFFF
+set $inactive-bg-color   #004E69
+set $text-color          #00BFFF
+set $inactive-text-color #004E69
+set $urgent-bg-color     #FF00CC
+
+
+
+
+
+#	>>>	   VISUAL	<<< 
+
+# >_Font
+font pango:monospace 8 
+
+# >_Gaps
+for_window [class="^.*"] border pixel 3
+new_window pixel 2
+gaps inner 20
+gaps outer 10
+smart_gaps on
+hide_edge_borders both
+
+
+
+# >_Window
+# General
+default_orientation horizontal
+hide_edge_borders both
+
+#Colors
+#Class            Border              Background         Text                 Indicator
+client.focused    #00BFFF             #00BFFF            #00BFFF              #00BFFF
+ 
+client.unfocused  $inactive-bg-color $inactive-bg-color $inactive-text-color #00BFFF
+ 
+client.focused_inactive $inactive-bg-color $inactive-bg-color $inactive-text-color #00BFFF
+ 
+client.urgent $urgent-bg-color $urgent-bg-color $text-color #00BFFF
 
 
 
@@ -120,6 +162,7 @@ bindsym Mod1+a focus parent
 
 
 
+
 #	>>_Window Management<<
 
 # >_Kill focused window
@@ -160,6 +203,7 @@ bindsym Mod1+d exec dmenu_run
 
 # >_Firefox
 bindsym Mod1+shift+f exec firefox
+assign [class="Firefox"] $ws1 
 
 # >_i3lock
 bindsym Mod1+shift+x exec i3lock
