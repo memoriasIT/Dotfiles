@@ -13,7 +13,8 @@
   >_ ranger<br>
   >_ polybar<br>
   >_ dunst<br>
-  >_ firefox<br>
+  <b>>_</b><a href="https://www.mozilla.org/en-US/firefox/new/"> Firefox</a><br>
+
 </p>
 
 <p align="center">
@@ -55,6 +56,7 @@
   <b>>_</b><a href="http://caca.zoy.org/wiki/toilet"> toilet</a> - Ascii art in terminal<br>
   <b>>_</b><a href="https://github.com/xero/figlet-fonts"> figlet fonts</a> - Set of figlet fonts<br>
   <b>>_</b><a href="https://github.com/busyloop/lolcat"> lolcat</a> - Rainbows<br>
+<b>>_</b><a href="https://github.com/Guerra24/Firefox-UWP-Style"> Firefox</a><br>
 </p>
 
 <h3>>_ Mine</h3>
