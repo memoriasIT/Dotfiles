@@ -18,12 +18,14 @@ HISTORY:
 [15/08/2018] - i3wm config file
 [16/08/2018] - i3wm config file nicer + github repo created
 [17/08/2018] - Several scripts created, fixed paths, i3fyra and related delayed for bugs found
+[20/08/2018] - Added keybinding images to README, some minor fixes to configs
+[21/08/2018] - Configured i3gaps, DOOM emacs and fucked up with git twice, quite a productive day
 
 
 PLANNING: 
 [xx/08/2018] - Configure i3fyra  # NOT WORKING TEMP.
 
-[xx/08/2018] - Configure i3gaps
+
 
 [xx/08/2018] - Firefox configuration
 [xx/08/2018] - Firefox configuration
