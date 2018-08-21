@@ -37,9 +37,9 @@ sudo cp -r ~/scripts $PWD
 sudo cp -r /usr/share/figlet $PWD
 
 # Copy emacs folder
-sudo cp -r ~/.emacs.d $PWD
-sudo rm -rf emacs
-sudo mv -f .emacs.d/ emacs
+#sudo cp -r ~/.emacs.d $PWD
+#sudo rm -rf emacs
+#sudo mv -f .emacs.d/ emacs
 
 printf "\nBackup Done\n"
 read -p "want to upload to github? (Y/N): " confirm && [[ $confirm == [yY] || $confirm == [yY][eE][sS] ]] || exit 1
