@@ -36,13 +36,15 @@
   >_ ranger<br> (might not end up using it but the terminal and maybe customize gui)
   >_ polybar<br>
   >_ i3lock<br>
-  >_ feh<br>
+  >_ feh<br> (bg #4d5e63 ?)
   >_ dunst<br>
   >_ Compton<br>
 	&emsp;* Blur + animations<br>
   >_ firefox<br>
 	&emsp;* Scripts?<br>
 	&emsp;* Start-up page<br>
+	&emsp;* Stars -> dot void -> tab line <br>
+	
 
 </p>
 <p align="center">
