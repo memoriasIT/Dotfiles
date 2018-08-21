@@ -42,7 +42,7 @@ sudo cp -r /usr/share/figlet $PWD
 #sudo mv -f .emacs.d/ emacs
 
 # Copy firefox
-sudo cp -r ~/.mozilla/firefox/pnclkesu.default/chrome/userChrome.css firefox/
+sudo cp -r ~/.mozilla/firefox/pnclkesu.default/chrome/ firefox/
 
 printf "\nBackup Done\n"
 read -p "want to upload to github? (Y/N): " confirm && [[ $confirm == [yY] || $confirm == [yY][eE][sS] ]] || exit 1

@@ -1,0 +1,14 @@
+/*AGENT_SHEET*/
+
+/* Pop-ups, Context Menus, Dropdowns, etc */
+@import url(./css/context.css);
+
+/* Import pagesChrome base theme */
+@import url(./css/pagesChrome.css);
+
+/* Pages */
+@import url(./css/pagesContent.css);
+
+:root {
+	--uwp-accent-color: -moz-win-accentcolor; /* Global Accent Color */
+}

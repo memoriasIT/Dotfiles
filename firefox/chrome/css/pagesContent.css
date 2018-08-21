@@ -1,0 +1,322 @@
+
+
+@-moz-document url("about:newtab"), url("about:home") {
+	body{
+		background-color: #101010 !important;
+		color: #D1D1D1 !important;
+		overflow: hidden !important;
+		--newtab-textbox-focus-boxshadow: 0 0 0 1px var(--uwp-accent-color) !important;
+		--newtab-textbox-focus-color: var(--uwp-accent-color) !important;
+		--newtab-snippets-background-color: #2A2A2A !important;
+		--newtab-link-primary-color: var(--uwp-accent-color) !important;
+	}
+	#newtab-customize-overlay {
+		background: #323234 !important;
+	}
+	.card, .prefs-pane .sidebar {
+		background-color: #2c2c2c !important; /*202020*/
+		color: #C4C4C4 !important;
+	}
+	.prefs-pane .actions {
+		background-color: #2c2c2c !important;
+		border-left: 1px solid #D7D7DB;
+	}
+	.prefs-pane .prefs-modal-inner-wrapper .options {
+		background-color: #2c2c2c !important; /*202020*/
+		color: #C4C4C4 !important;
+	}
+	.prefs-pane-button button {
+		border: 1px solid #525A6D !important;
+		fill: #EEE !important;
+	}
+	.prefs-pane-button button:hover {
+		background-color: #444444 !important;
+		border: 1px solid #525A6D !important;
+	}
+	.prefs-pane-button button:active {
+		background-color: #323234 !important;
+		border: 1px solid #525A6D !important;
+	}
+	.search-wrapper input {
+		background: #474749 !important;
+		color: #FFF !important;
+	}
+	.contentSearchHeader, .contentSearchSuggestionTable, .contentSearchSettingButton, .contentSearchHeaderRow {
+		background: #2c2c2c !important;
+		color: #FFF !important;
+		-moz-appearance: none !important;
+		border-color: transparent !important;
+	}
+	.search-wrapper .search-label, .search-wrapper .search-button {
+		fill: #EEE !important; 
+	}
+	.section-top-bar .info-option {
+		background: #2c2c2c !important;
+		color: #FFF !important;
+		-moz-appearance: none !important;
+		border-color: transparent !important;
+	}
+	.context-menu {
+		background: #2c2c2c !important;
+		color: #C4C4C4 !important;
+		-moz-appearance: none !important;
+		border-color: transparent !important;
+	}
+	.separator {
+		border: 1px solid #525A6D !important;
+	}
+	.icon {
+		fill: #C4C4C4 !important;
+	}
+	.onboarding-watermark {
+		display: none !important;
+	}
+	.top-site-outer .context-menu-button {
+		background-clip: padding-box !important;
+		background-image: url("chrome://browser/skin/page-action.svg") !important;
+		background-position: 55% !important;
+		background-repeat: no-repeat !important;
+	}
+	.top-site-outer .context-menu-button:hover:active {
+		background-clip: padding-box !important;
+		background-image: url("chrome://browser/skin/page-action.svg") !important;
+		background-position: 55% !important;
+		background-repeat: no-repeat !important;
+	}
+	.search-wrapper .search-button {
+		background: url("chrome://browser/skin/forward.svg") no-repeat center center !important;
+		background-color: transparent !important;
+		background-size: 16px 16px !important;
+		height: 100% !important;
+		border: none !important;
+	}
+	.search-wrapper .search-button:hover{
+		background-color: transparent !important;
+	}
+	.search-wrapper .search-button:hover:active {
+		background: url("chrome://browser/skin/forward.svg") no-repeat center center !important;
+		background-color: transparent !important;
+		border: none !important;
+	}
+	.icon.icon-settings, .icon.icon-settings:hover:active {
+		background-image: url("chrome://browser/skin/settings.svg") !important;
+	}
+	.collapsible-section .section-top-bar .context-menu-button {
+		background: url("chrome://browser/skin/page-action.svg") no-repeat center center !important;
+	}
+	.prefs-button button, .prefs-button button:hover:active {
+		background-color: transparent !important;
+		padding: 15px !important;
+		border: none !important;
+	}
+	.icon, .icon:hover, .icon:hover:active {
+		background-position: center center !important;
+		background-repeat: no-repeat !important;
+		background-size: 16px !important;
+		height: 16px !important;
+		border: none !important;
+	}
+}
+
+@-moz-document url-prefix("chrome://"), url-prefix("about:") {
+
+	treecol {
+		border-inline-start-width: 0px !important;
+	}
+	listheader {
+		border-bottom: 0px !important;
+	}
+	richlistbox {
+		border: none !important;
+	}
+	.menulist-label-box {
+		border: none !important;
+	}
+	.checkbox-icon {
+		filter: invert(1) !important;
+	}
+	.menulist-dropmarker {
+		padding-right: 0px !important;
+	}
+	.menulist-label-box {
+		padding-left: 0px !important;
+	}
+	* {
+		outline: none !important;
+	}
+
+	.dialogBox {
+		background: black !important;
+		border: 1px solid var(--uwp-accent-color) !important;
+		border-radius: 0px !important;
+		color: white !important;
+	}
+	.groupbox-title {
+		background: transparent !important;
+		border-bottom: 0px !important;
+		padding: 0px !important;
+	}
+	.dialogBox > caption {
+		padding: 0px !important;
+	}
+	dialog.prefwindow[type="child"], #history[windowtype="Update:History"] {
+		background: black !important;
+		color: white !important;
+		padding-top: 0px !important;
+		padding-bottom: 0px !important;
+		padding-inline-start: 0px !important;
+		padding-inline-end: 0px !important;
+	}
+	#history[windowtype="Update:History"] #historyItems {
+		border: none !important;
+		border-radius: 0px !important;
+	}
+	.prefpane {
+		background: black !important;
+		color: white !important;
+	}
+	separator.groove:not([orient="vertical"]) {
+		border-top: 0px !important;
+	}
+	.advanced-panel {
+		background-color: black !important;
+		border: none !important;
+	}
+
+	:root {
+	    --in-content-page-color: white !important;
+	    --in-content-page-background: black !important;
+	    --in-content-text-color: lightgray !important;
+	    --in-content-selected-text: #fff;
+	    --in-content-box-background: #fff;
+	    --in-content-box-background-odd: #f3f6fa;
+	    --in-content-box-background-hover: #ebebeb;
+	    --in-content-box-background-active: #dadada;
+	    --in-content-box-border-color: transparent !important;
+	    --in-content-item-hover: rgba(0,149,221,0.25);
+	    --in-content-item-selected: #0a84ff;
+		--in-content-border-highlight: #0a84ff;
+	    --in-content-border-focus: #0a84ff;
+	    --in-content-border-color: #282828 !important;
+	    --in-content-category-outline-focus: 1px dotted #0a84ff;
+	    --in-content-category-text: white !important;
+	    --in-content-category-text-active: ##666666 !important;
+	    --in-content-category-text-selected: var(--uwp-accent-color) !important;
+	    --in-content-category-text-selected-active: #666666 !important;
+	    --in-content-category-background-hover: #202020 !important;
+	    --in-content-category-background-active: #404040 !important;
+	    --in-content-category-background-selected-hover: #202020 !important;
+	    --in-content-category-background-selected-active: #404040 !important;
+	    --in-content-tab-color: #424f5a;
+	    --in-content-link-color: var(--uwp-accent-color) !important;
+	    --in-content-link-color-hover: #999999 !important;
+	    --in-content-link-color-active: #666666 !important;
+	    --in-content-link-color-visited: #0a8dff;
+	    --in-content-primary-button-background: #0a84ff;
+	    --in-content-primary-button-background-hover: #0060df;
+	    --in-content-primary-button-background-active: #003EAA;
+	    --in-content-table-background: black !important;
+	    --in-content-table-border-dark-color: #282828 !important;
+	    --in-content-table-header-background: var(--uwp-accent-color) !important;
+	    --grey-20: #ededf0;
+	    --grey-90: #0c0c0d;
+	    --grey-90-a10: rgba(12, 12, 13, 0.1);
+	    --grey-90-a20: rgba(12, 12, 13, 0.2);
+	    --grey-90-a30: rgba(12, 12, 13, 0.3);
+
+		--exception-button-container-background: black !important;
+	}
+}
+
+@-moz-document url("about:config") {
+	#configTree {
+		margin-bottom: 0px !important;
+	}
+}
+
+@-moz-document url-prefix("about:networking") {
+	#categories > .category {
+		cursor: default !important;
+		border-radius: 0px !important;
+		transition: none !important;
+	}
+	#categories > .category:hover, #categories > .category:hover:active {
+		transition: none !important;
+	}
+}
+@-moz-document url-prefix("about:preferences") {
+	#categories > .category {
+		padding-left: 10px !important;
+		transition: none !important;
+	}
+	#categories > .category[selected] {
+		padding-left: 8px !important;
+		border-top: none !important;
+		border-bottom: none !important;
+		border-right: none !important;
+	}
+	.help-button > .text-link {
+		border-radius: 0px !important;
+	}
+	.help-button > .text-link:hover:active {
+		color: white !important;
+	}
+	#defaultFontSize {
+		width: 100px !important;
+	}
+}
+
+@-moz-document url("about:downloads") {
+	#contentAreaDownloadsView {
+		padding: 0px !important;
+	}
+}
+
+@-moz-document url("about:addons") {
+	#categories > .category {
+		padding-left: 10px !important;
+	}
+	#categories > .category[selected] {
+		padding-left: 8px !important;
+		border-top: none !important;
+		border-bottom: none !important;
+		border-right: none !important;
+	}
+	button.button-link {
+		cursor: default !important;
+		margin: 0px 10px !important;
+	}
+	button.button-link:hover {
+		text-decoration: none !important;
+	}
+	.button-box {
+		padding: 0px 5px !important;
+	}
+	richlistbox.list > richlistitem.addon:not([selected]) {
+		border-bottom: 0px !important;
+	}
+	.detail-view-container {
+		color: white !important;
+	}
+	.detail-row, .detail-row-complex {
+		text-shadow: none !important;
+	}
+	.addon-view[type="plugin"] .icon {
+		fill: white !important;
+		-moz-context-properties: fill !important;
+	}
+	.alert {
+		color: white !important;
+		background-color: black !important;
+	}
+	#header-utils-btn {
+		fill: white !important;
+		border-radius: 0px !important;
+	}
+	#header-utils-btn:hover {
+		background-color: #202020 !important;
+	}
+	#header-utils-btn[open] {
+		background-color: #404040 !important;
+	}
+}

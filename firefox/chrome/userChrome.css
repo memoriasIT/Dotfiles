@@ -1,0 +1,24 @@
+/*AGENT_SHEET*/
+
+/* Base Theme */
+@import url(./css/base.css);
+
+/* Pop-ups, Context Menus, Dropdowns, etc */
+@import url(./css/context.css);
+
+/* Pages */
+@import url(./css/pagesChrome.css);
+
+/* Scrollbars */
+.titlebar-placeholder[type="pre-tabs"] {
+	-moz-binding: url("./js/userChrome.xml#execute_javascript_code");
+}
+
+:root {
+	--uwp-accent-color: -moz-win-accentcolor; /* Global Accent Color */
+}
+
+/* Hide back-forward buttons */
+#forward-button, #back-button {
+	display: none !important;
+}

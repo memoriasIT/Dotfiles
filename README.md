@@ -23,14 +23,26 @@
 <img src="https://raw.githubusercontent.com/memoriasIT/Dotfiles-WIP/master/img/todo.png" height="40">
 <p>
   >_ i3wm<br>
-  	&emsp;* Media Keys (Skip song, play, pause, brightness, etc.)<br>
-    &emsp;* Classify commands from the end of the document<br>
+	&emsp;* Media Keys (Skip song, play, pause, brightness, etc.)<br>
+	&emsp;* Classify commands from the end of the document<br>
+	&emsp;* Disable mouse in certain apps/Change focus by mouseclick not mouseover<br>
   >_ zsh<br>
   >_ vim<br>
-  >_ ranger<br>
+  	&emsp;* Pasting buffer fix<br>
+	&emsp;* Plugins and make it look nicer<br>
+  >_ emacs<br>
+	&emsp;* Custom Splash Screen<br>
+  >_ ranger<br> (might not end up using it but the terminal and maybe customize gui)
   >_ polybar<br>
+  >_ i3lock<br>
+  >_ feh<br>
   >_ dunst<br>
+  >_ Compton<br>
+	&emsp;* Blur + animations<br>
   >_ firefox<br>
+	&emsp;* Scripts?<br>
+	&emsp;* Start-up page<br>
+
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/memoriasIT/Dotfiles-WIP/master/img/separator.png" width="500">
