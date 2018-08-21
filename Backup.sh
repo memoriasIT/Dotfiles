@@ -35,6 +35,9 @@ sudo cp -r ~/scripts $PWD
 # Copy ascii fonts
 sudo cp -r /usr/share/figlet $PWD
 
+# Copy emacs folder
+sudo cp -r ~/.emacs.d $PWD
+
 printf "\nBackup Done\n"
 read -p "want to upload to github? (Y/N): " confirm && [[ $confirm == [yY] || $confirm == [yY][eE][sS] ]] || exit 1
 
