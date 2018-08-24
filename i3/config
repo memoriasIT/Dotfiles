@@ -198,8 +198,8 @@ bindsym Mod1+minus scratchpad show
 # >_Terminal
 bindsym Mod1+Return exec i3-sensible-terminal
 
-# >_Dmenu
-bindsym Mod1+d exec dmenu_run
+# >_Rofi
+bindsym Mod1+d exec rofi -show drun -theme flat
 
 # >_Firefox
 bindsym Mod1+shift+f exec firefox
