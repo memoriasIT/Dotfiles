@@ -9,6 +9,7 @@
   <b>>_</b><a href="https://github.com/Airblader/i3"> i3-gaps</a><br>
   <b>>_</b><a href="https://github.com/hlissner/doom-emacs"> DOOM Emacs</a><br>
   >_ zsh<br>
+  >_ rofi<br>
   >_ vim<br>
   >_ ranger<br>
   >_ polybar<br>
