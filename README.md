@@ -26,12 +26,8 @@
 <p>
   >_ i3wm<br>
 	&emsp;* Media Keys (Skip song, play, pause, brightness, etc.)<br>
-	&emsp;* Classify commands from the end of the document<br>
-	&emsp;* Disable mouse in certain apps/Change focus by mouseclick not mouseover<br>
   >_ zsh<br>
   >_ vim<br>
-  	&emsp;* Pasting buffer fix<br>
-	&emsp;* Plugins and make it look nicer<br>
   >_ emacs<br>
 	&emsp;* Custom Splash Screen<br>
   >_ ranger<br> (might not end up using it but the terminal and maybe customize gui)
@@ -42,13 +38,15 @@
   >_ Compton<br>
 	&emsp;* Blur + animations<br>
   >_ firefox<br>
-	&emsp;* Scripts?<br>
-	&emsp;* Start-up page<br>
-	&emsp;* Stars -> dot void -> tab line <br>
+	&emsp;* File download window fucked up<br>
   >_ htop<br>
 	&emsp;* Change colors<br>
   >_ Keyboard images<br>
 	&emsp;* Add mod+e<br>
+  >_ neofetch<br>
+	&emsp;* Custom image (maybe moving?)<br>
+
+add source base16 to scripts
 
 </p>
 <p align="center">

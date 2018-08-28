@@ -22,7 +22,7 @@ HISTORY:
 [21/08/2018] - Configured i3gaps, DOOM emacs and fucked up with git twice, quite a productive day
 [22/08/2018] - Firefox 61 configuration, basically firefox uwp style by guerra 24
 [24/08/2018] - Rofi setup
-[28/08/2018] - Firefox tweaks (back buttons, start page, etc.), htop changed, new vimrc config 
+[28/08/2018] - Firefox tweaks (back buttons, start page, etc.), htop changed, new vimrc config, base16 installed (terminal themes), i3wm todos
 
 
 PLANNING: 

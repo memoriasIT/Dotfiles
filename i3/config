@@ -114,6 +114,8 @@ bar {
         status_command i3status
 }
 
+# >_Focus without mouse
+focus_follows_mouse no
 
 
 
@@ -311,6 +313,7 @@ bindsym Mod1+shift+o split h
 
 # split in vertical orientation
 bindsym Mod1+v split v
+
 
 
 
