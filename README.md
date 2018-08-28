@@ -10,7 +10,7 @@
   <b>>_</b><a href="https://github.com/hlissner/doom-emacs"> DOOM Emacs</a><br>
   >_ zsh<br>
   <b>>_</b><a href="https://github.com/DaveDavenport/rofi"> Rofi</a><br>
-  >_ vim<br>
+  >_ neovim<br>
   >_ ranger<br>
   >_ polybar<br>
   >_ dunst<br>
@@ -47,7 +47,8 @@
 	&emsp;* Stars -> dot void -> tab line <br>
   >_ htop<br>
 	&emsp;* Change colors<br>
-
+  >_ Keyboard images<br>
+	&emsp;* Add mod+e<br>
 
 </p>
 <p align="center">

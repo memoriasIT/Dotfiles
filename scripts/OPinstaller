@@ -5,3 +5,9 @@ aptitude install toilet
 
 #LOLCAT
 gem install lolcat
+
+
+# Base16 (terminal themes)
+git clone https://github.com/chriskempson/base16-shell.git ~/.config/base16-shell
+
+
