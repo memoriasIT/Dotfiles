@@ -46,7 +46,7 @@
   >_ neofetch<br>
 	&emsp;* Custom image (maybe moving?)<br>
 
-add source base16 to scripts
+
 
 </p>
 <p align="center">
@@ -57,6 +57,7 @@ add source base16 to scripts
 <h3>>_ External</h3>
 <p>
   <b>>_</b><a href="https://github.com/budlabs/i3ass/"> i3ass</a> - Better i3 window management<br>
+  <b>>_</b><a href="https://github.com/chriskempson/base16-shell"> base16</a> - terminal themes<br>
   <b>>_</b><a href="http://caca.zoy.org/wiki/toilet"> toilet</a> - Ascii art in terminal<br>
   <b>>_</b><a href="https://github.com/xero/figlet-fonts"> figlet fonts</a> - Set of figlet fonts<br>
   <b>>_</b><a href="https://github.com/busyloop/lolcat"> lolcat</a> - Rainbows<br>
