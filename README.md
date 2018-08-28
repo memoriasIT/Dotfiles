@@ -37,7 +37,7 @@
   >_ ranger<br> (might not end up using it but the terminal and maybe customize gui)
   >_ polybar<br>
   >_ i3lock<br>
-  >_ feh<br> (bg #4d5e63 ?)
+  >_ feh (bg #4d5e63 ?)<br>
   >_ dunst<br>
   >_ Compton<br>
 	&emsp;* Blur + animations<br>

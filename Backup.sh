@@ -56,7 +56,7 @@ read -p "want to upload to github? (Y/N): " confirm && [[ $confirm == [yY] || $c
 cd ~/desktop/Dotfiles-WIP/
 git init
 git add .
-git commit -m "New files papito"
+git commit -m "$1"
 git push
 
 echo "Done";
