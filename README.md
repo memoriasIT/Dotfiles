@@ -44,7 +44,9 @@
 	&emsp;* Scripts?<br>
 	&emsp;* Start-up page<br>
 	&emsp;* Stars -> dot void -> tab line <br>
-	
+  >_ htop<br>
+	&emsp;* Change colors<br>
+
 
 </p>
 <p align="center">
