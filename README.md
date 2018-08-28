@@ -46,7 +46,9 @@
   >_ neofetch<br>
 	&emsp;* Custom image (maybe moving?)<br>
 
-
+dotshare.it
+https://github.com/so-fancy/diff-so-fancy or similar?
+fix copy and paste with cntrl+c cntrl+v
 
 </p>
 <p align="center">
