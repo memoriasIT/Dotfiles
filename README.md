@@ -45,6 +45,7 @@
 	&emsp;* Add mod+e<br>
   >_ neofetch<br>
 	&emsp;* Custom image (maybe moving?)<br>
+  >_ Custom Shell with vim capabilities<br>
 
 dotshare.it
 https://github.com/so-fancy/diff-so-fancy or similar?
