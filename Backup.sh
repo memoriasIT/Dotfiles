@@ -50,6 +50,19 @@ sudo cp -r /usr/share/rofi/themes rofi-themes/
 # htop
 sudo cp ~/.config/htop/htoprc htop/
 
+# hexchat
+sudo cp ~/.config/hexchat/colors.conf  hexchat/
+sudo cp ~/.config/hexchat/[Content_Types].xml  hexchat/
+sudo cp ~/.config/hexchat/pevents.conf hexchat/
+
+# lxappearance
+# Adwaita-dark theme
+
+# Scrollbar change in ubuntu
+sudo cp /usr/share/themes/Ambiance/gtk-2.0/gtkrc gtkrc
+
+
+
 printf "\nBackup Done\n"
 read -p "want to upload to github? (Y/N): " confirm && [[ $confirm == [yY] || $confirm == [yY][eE][sS] ]] || exit 1
 
