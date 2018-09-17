@@ -25,7 +25,7 @@ HISTORY:
 [28/08/2018] - Firefox tweaks (back buttons, start page, etc.), htop changed, new vimrc config, base16 installed (terminal themes), i3wm todos
 [05/09/2018] - Added icons to i3bar and started tweaking lemonbar, want to add lemonbar instead of i3, added hexchat+tor with theme
 [06/09/2018] - Changed lxappearance with Adwaita-dark, that makes hexchat and nautilus look way better, shutdown script and icons set.
-
+[17/09/2018] - Changed startpage, now it's customized, with links I use and searchbox + logo
 
 PLANNING: 
 [xx/08/2018] - Configure i3fyra  # NOT WORKING TEMP.

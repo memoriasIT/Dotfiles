@@ -164,3 +164,60 @@ div {
   padding-left: 2em;
   padding-right: 2em;
 }
+
+
+.header-img {
+  margin-top: 115px;
+}
+
+.links {
+  padding-top: 60px;
+}
+
+.wrap{
+  width: 30%;
+  position: absolute;
+  top: 45%;
+  left: 48%;
+  transform: translate(-50%, -50%);
+}
+
+.search {
+  width: 100%;
+  position: relative
+}
+
+.searchTerm {
+  float: left;
+  width: 100%;
+  border: 3px solid white;
+  padding: 5px;
+  height: 20px;
+  border-radius: 5px;
+  outline: none;
+  color: gray;
+}
+
+.searchTerm:focus{
+  color: white;
+  
+}
+
+.fa, .fa-search{
+  right: 20px;
+}
+
+.searchButton {
+  position: absolute;  
+  right: 10px;
+  width: 40px;
+  height: 36px;
+  border: 1px solid white;
+  background: white;
+  text-align: left;
+  color: black;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
