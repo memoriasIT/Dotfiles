@@ -26,7 +26,7 @@ HISTORY:
 [05/09/2018] - Added icons to i3bar and started tweaking lemonbar, want to add lemonbar instead of i3, added hexchat+tor with theme
 [06/09/2018] - Changed lxappearance with Adwaita-dark, that makes hexchat and nautilus look way better, shutdown script and icons set.
 [17/09/2018] - Changed startpage, now it's customized, with links I use and searchbox + logo
-[21/09/2018] - Changed firefox style to material firefox, fix startpage
+[21/09/2018] - Changed firefox style to material firefox, fix startpage, fix i3 media shorcuts
  
 
 PLANNING: 
