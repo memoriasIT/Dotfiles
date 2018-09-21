@@ -61,8 +61,7 @@ sudo cp ~/.config/hexchat/pevents.conf hexchat/
 # Scrollbar change in ubuntu
 sudo cp /usr/share/themes/Ambiance/gtk-2.0/gtkrc gtkrc
 
-# polybar
-sudo cp -r ~/.config/polybar/ polybar
+
 
 printf "\nBackup Done\n"
 read -p "want to upload to github? (Y/N): " confirm && [[ $confirm == [yY] || $confirm == [yY][eE][sS] ]] || exit 1
