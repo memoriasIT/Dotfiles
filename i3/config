@@ -68,8 +68,7 @@ gaps outer 10
 smart_gaps on
 hide_edge_borders both
 
-# >_Background
-exec_always feh --bg-scale wp6.jpg
+
 
 # >_Window
 # General

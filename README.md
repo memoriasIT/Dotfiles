@@ -25,6 +25,7 @@
 <img src="https://raw.githubusercontent.com/memoriasIT/Dotfiles-WIP/master/img/todo.png" height="40">
 <p>
   >_ i3wm<br>
+	&emsp;* Media Keys (Skip song, play, pause, brightness, etc.)<br>
   >_ zsh<br>
   >_ vim<br>
   >_ emacs<br>
@@ -43,11 +44,12 @@
   >_ Keyboard images<br>
 	&emsp;* Add mod+e<br>
   >_ neofetch<br>
+	&emsp;* Custom image (maybe moving?)<br>
   >_ Custom Shell with vim capabilities<br>
 
-dotshare.it <br>
+dotshare.it
 https://github.com/so-fancy/diff-so-fancy or similar?
-gnu stow
+fix copy and paste with cntrl+c cntrl+v
 
 </p>
 <p align="center">
@@ -62,7 +64,7 @@ gnu stow
   <b>>_</b><a href="http://caca.zoy.org/wiki/toilet"> toilet</a> - Ascii art in terminal<br>
   <b>>_</b><a href="https://github.com/xero/figlet-fonts"> figlet fonts</a> - Set of figlet fonts<br>
   <b>>_</b><a href="https://github.com/busyloop/lolcat"> lolcat</a> - Rainbows<br>
-  <b>>_</b><a href="https://github.com/muckSponge/MaterialFox"> Firefox</a>  - Theme <br>
+  <b>>_</b><a href="https://github.com/Guerra24/Firefox-UWP-Style"> Firefox</a>  - Theme <br>
   <b>>_</b><a href="https://github.com/DaveDavenport/rofi-themes/blob/master/User%20Themes/flat-orange.rasi"> Rofi theme</a> - Flat orange<br>
 	
 	
