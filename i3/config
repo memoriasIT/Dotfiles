@@ -69,7 +69,10 @@ smart_gaps on
 hide_edge_borders both
 
 # >_Background
-exec_always feh --bg-scale wp6.jpg
+exec_always --no-startup-id feh --bg-scale ~/dl/wp6.jpg
+
+# >_Bar
+exec_always --no-startup-id bash ~/.config/polybar/launch.sh
 
 # >_Window
 # General
@@ -107,9 +110,9 @@ bindsym Mod1+Shift+r restart
 bindsym Mod1+Shift+e exec "i3-nagbar -t warning -m 'Want to log out?' -b 'Yes, exit i3' 'i3-msg exit'"
 
 # >_Start i3bar to display a workspace bar 
-bar {
-        status_command i3status
-}
+#bar {
+#        status_command i3status
+#}
 
 # >_Focus without mouse
 focus_follows_mouse no
