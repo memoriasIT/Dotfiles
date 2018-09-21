@@ -30,7 +30,8 @@
   >_ vim<br>
   >_ emacs<br>
 	&emsp;* Custom Splash Screen<br>
-  >_ ranger<br> (might not end up using it but the terminal and maybe customize gui)
+  >_ ranger<br> 
+	&emsp;* Theme perfect? <br>
   >_ polybar<br>
   >_ i3lock<br>
   >_ feh (bg #4d5e63 ?)<br>
@@ -38,8 +39,7 @@
   >_ Compton<br>
 	&emsp;* Blur + animations<br>
   >_ firefox<br>
-	&emsp;* File download window fucked up<br>
-  >_ htop<br>
+  >_ htop -> gtop<br>
 	&emsp;* Change colors<br>
   >_ Keyboard images<br>
 	&emsp;* Add mod+e<br>

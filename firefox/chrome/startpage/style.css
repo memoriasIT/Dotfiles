@@ -177,7 +177,7 @@ div {
 .wrap{
   width: 30%;
   position: absolute;
-  top: 45%;
+  top: 385px;
   left: 48%;
   transform: translate(-50%, -50%);
 }
