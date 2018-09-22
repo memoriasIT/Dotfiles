@@ -45,7 +45,7 @@ sudo cp -r /usr/share/figlet $PWD
 sudo cp -r ~/.mozilla/firefox/pnclkesu.default/chrome/ firefox/
 
 # Copy rofi
-sudo cp -r /usr/share/rofi/themes rofi-themes/
+sudo cp -r /usr/share/rofi/themes rofi/
 
 # htop
 sudo cp ~/.config/htop/htoprc htop/

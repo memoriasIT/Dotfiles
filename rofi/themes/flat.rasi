@@ -4,22 +4,25 @@
  * Copyright: Martin B. Fraga
  */
 
+@import "colors-rofi-dark.rasi"
+
 /* global settings and color variables */
 * {
-   maincolor:        #ed8712;
-   highlight:        bold #ed8712;
-   urgentcolor:      #e53714;
+   maincolor:        @foreground;
+   highlight:        @foreground;
+   urgentcolor:      @urgent-background;
 
    fgwhite:          #cfcfcf;
    blackdarkest:     #1d1d1d;
    blackwidget:      #262626;
    blackentry:       #292929;
-   blackselect:      #303030;
-   darkgray:         #848484;
-   scrollbarcolor:   #505050;
+   blackselect:      @urgent-background;
+   darkgray:         @urgent-foreground;
+   scrollbarcolor:   @selected-normal-background;
    font: "DejaVu Sans Mono Regular 14";
    background-color: @blackdarkest;
 }
+
 
 window {
    background-color: @blackdarkest;

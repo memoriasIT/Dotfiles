@@ -25,7 +25,6 @@
 <img src="https://raw.githubusercontent.com/memoriasIT/Dotfiles-WIP/master/img/todo.png" height="40">
 <p>
   >_ i3wm<br>
-	&emsp;* Media Keys (Skip song, play, pause, brightness, etc.)<br>
   >_ zsh<br>
   >_ vim<br>
   >_ emacs<br>
@@ -40,16 +39,23 @@
 	&emsp;* Blur + animations<br>
   >_ firefox<br>
   >_ htop -> gtop<br>
-	&emsp;* Change colors<br>
   >_ Keyboard images<br>
 	&emsp;* Add mod+e<br>
   >_ neofetch<br>
 	&emsp;* Custom image (maybe moving?)<br>
   >_ Custom Shell with vim capabilities<br>
 
+
+GNU Stow
+_---------------
 dotshare.it
-https://github.com/so-fancy/diff-so-fancy or similar?
-fix copy and paste with cntrl+c cntrl+v
+Edit all colors with one file
+~/.local/bin pywal
+https://github.com/DaveDavenport/rofi/issues/756     -  pywal rofi theme flat with custom colors import
+theme is located at /usr/share/rofi/themes
+
+cp ~/.cache/wal/colors-rofi-dark.rasi /usr/share/rofi/themes/colors-rofi-dark.rasi
+
 
 </p>
 <p align="center">
