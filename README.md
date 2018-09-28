@@ -24,75 +24,68 @@
 
 <img src="https://raw.githubusercontent.com/memoriasIT/Dotfiles-WIP/master/img/todo.png" height="40">
 <p>
-  >_ i3wm<br>
-  >_ zsh<br>
-  >_ vim<br>
-  >_ emacs<br>
-	&emsp;* Custom Splash Screen<br>
-  >_ ranger<br> 
-	&emsp;* Theme perfect? <br>
-  >_ polybar<br>
-  >_ i3lock<br>
-  >_ feh (bg #4d5e63 ?)<br>
-  >_ dunst<br>
-  >_ Compton<br>
-	&emsp;* Blur + animations<br>
-  >_ firefox<br>
-  >_ htop -> gtop<br>
-  >_ Keyboard images<br>
-	&emsp;* Add mod+e<br>
-  >_ neofetch<br>
-	&emsp;* Custom image (maybe moving?)<br>
-  >_ Custom Shell with vim capabilities<br>
+>_ emacs<br>
+&emsp;* Custom Splash Screen<br>
+>_ ranger<br> 
+&emsp;* Theme perfect? <br>
+>_ Compton<br>
+&emsp;* Blur + animations<br>
+>_ Keyboard images<br>
+&emsp;* Add mod+e<br>
+>_ neofetch<br>
+&emsp;* Custom image (maybe moving?)<br>
+>_ Vash - Custom Shell with vim capabilities<br>
+>_ GNU Stow
+>_ Polybar colors with pywal
 
 
-GNU Stow
-_---------------
-dotshare.it
-Edit all colors with one file
-~/.local/bin pywal
-https://github.com/DaveDavenport/rofi/issues/756     -  pywal rofi theme flat with custom colors import
-theme is located at /usr/share/rofi/themes
 
-cp ~/.cache/wal/colors-rofi-dark.rasi /usr/share/rofi/themes/colors-rofi-dark.rasi
-
+>_ i3wm<br>
+>_ zsh<br>
+>_ vim<br>
+>_ polybar<br>
+>_ i3lock<br>
+>_ feh <br>
+>_ dunst<br>
+>_ firefox<br>
+>_ htop -> gtop<br>
 
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/memoriasIT/Dotfiles-WIP/master/img/separator.png" width="500">
+<img src="https://raw.githubusercontent.com/memoriasIT/Dotfiles-WIP/master/img/separator.png" width="500">
 </p>
 
 <img src="https://raw.githubusercontent.com/memoriasIT/Dotfiles-WIP/master/img/scripts.png" height="40">
 <h3>>_ External</h3>
 <p>
-  <b>>_</b><a href="https://github.com/budlabs/i3ass/"> i3ass</a> - Better i3 window management<br>
-  <b>>_</b><a href="https://github.com/chriskempson/base16-shell"> base16</a> - terminal themes<br>
-  <b>>_</b><a href="http://caca.zoy.org/wiki/toilet"> toilet</a> - Ascii art in terminal<br>
-  <b>>_</b><a href="https://github.com/xero/figlet-fonts"> figlet fonts</a> - Set of figlet fonts<br>
-  <b>>_</b><a href="https://github.com/busyloop/lolcat"> lolcat</a> - Rainbows<br>
-  <b>>_</b><a href="https://github.com/Guerra24/Firefox-UWP-Style"> Firefox</a>  - Theme <br>
-  <b>>_</b><a href="https://github.com/DaveDavenport/rofi-themes/blob/master/User%20Themes/flat-orange.rasi"> Rofi theme</a> - Flat orange<br>
-	
-	
+<b>>_</b><a href="https://github.com/budlabs/i3ass/"> i3ass</a> - Better i3 window management<br>
+<b>>_</b><a href="https://github.com/chriskempson/base16-shell"> base16</a> - terminal themes<br>
+<b>>_</b><a href="http://caca.zoy.org/wiki/toilet"> toilet</a> - Ascii art in terminal<br>
+<b>>_</b><a href="https://github.com/xero/figlet-fonts"> figlet fonts</a> - Set of figlet fonts<br>
+<b>>_</b><a href="https://github.com/busyloop/lolcat"> lolcat</a> - Rainbows<br>
+<b>>_</b><a href="https://github.com/Guerra24/Firefox-UWP-Style"> Firefox</a>  - Theme <br>
+<b>>_</b><a href="https://github.com/DaveDavenport/rofi-themes/blob/master/User%20Themes/flat-orange.rasi"> Rofi theme</a> - Flat orange<br>
+
+
 </p>
 
 <h3>>_ Mine</h3>
 <p>
-  <b>>_</b><a href="https://github.com/memoriasIT/Dotfiles-WIP/blob/master/scripts/OPinstaller"> OPinstaller</a> - Get this config automatically (WIP)<br>
-  <b>>_</b><a href="https://github.com/memoriasIT/Dotfiles-WIP/blob/master/scripts/ascii"> ascii</a> - Combination of toilet, figlet and lolcat to show ascii text<br>
-  <b>>_</b><a href="https://github.com/memoriasIT/Dotfiles-WIP/blob/master/scripts/autoscript"> autoscript</a> - Create and edit a new script automatically<br>
+<b>>_</b><a href="https://github.com/memoriasIT/Dotfiles-WIP/blob/master/scripts/OPinstaller"> OPinstaller</a> - Get this config automatically (WIP)<br>
+<b>>_</b><a href="https://github.com/memoriasIT/Dotfiles-WIP/blob/master/scripts/ascii"> ascii</a> - Combination of toilet, figlet and lolcat to show ascii text<br>
+<b>>_</b><a href="https://github.com/memoriasIT/Dotfiles-WIP/blob/master/scripts/autoscript"> autoscript</a> - Create and edit a new script automatically<br>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/memoriasIT/Dotfiles-WIP/master/img/separator.png" width="500">
+<img src="https://raw.githubusercontent.com/memoriasIT/Dotfiles-WIP/master/img/separator.png" width="500">
 </p>
 
 <img src="https://raw.githubusercontent.com/memoriasIT/Dotfiles-WIP/master/img/Shorcuts.png" height="40">
 <h3>
-  >_ i3wm - Alt
+>_ i3wm - Alt
 </h3>
 <img src="https://raw.githubusercontent.com/memoriasIT/Dotfiles-WIP/master/img/keyboard-layout(2).png">
 <h3>
-  >_ i3wm - Alt+Shift
+>_ i3wm - Alt+Shift
 </h3>
 <img src="https://raw.githubusercontent.com/memoriasIT/Dotfiles-WIP/master/img/keyboard-layout.png">
