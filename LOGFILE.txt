@@ -27,7 +27,9 @@ HISTORY:
 [06/09/2018] - Changed lxappearance with Adwaita-dark, that makes hexchat and nautilus look way better, shutdown script and icons set.
 [17/09/2018] - Changed startpage, now it's customized, with links I use and searchbox + logo
 [21/09/2018] - Changed firefox style to material firefox, fix startpage, fix i3 media shorcuts, polybar setup
- 
+[26/09/2018] - Start development of ncurses console emulator, splash screen done
+[27/09/2018] - NCurses console emulator: VIm bar and main window done
+[28/09/2018] - PyWal persinstence working now, testing functional programming for the console emulator (?)
 
 PLANNING: 
 [xx/08/2018] - Configure i3fyra  # NOT WORKING TEMP.

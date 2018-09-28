@@ -204,7 +204,7 @@ bindsym Mod1+minus scratchpad show
 bindsym Mod1+Return exec i3-sensible-terminal
 
 # >_Rofi
-bindsym Mod1+d exec rofi -show drun -theme flat
+bindsym Mod1+d exec rofi -show drun -theme flat -config ~/.config/rofi/config
 
 # >_Firefox
 bindsym Mod1+shift+f exec firefox
