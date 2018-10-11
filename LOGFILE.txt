@@ -30,6 +30,7 @@ HISTORY:
 [26/09/2018] - Start development of ncurses console emulator, splash screen done
 [27/09/2018] - NCurses console emulator: VIm bar and main window done
 [28/09/2018] - PyWal persinstence working now, testing functional programming for the console emulator (?)
+[29/09/2018] - Polybar has PyWal now REEEEEEE 
 
 PLANNING: 
 [xx/08/2018] - Configure i3fyra  # NOT WORKING TEMP.

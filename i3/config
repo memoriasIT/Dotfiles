@@ -73,6 +73,7 @@ hide_edge_borders both
 
 # >_Background
 exec_always --no-startup-id feh --bg-scale ~/dl/wp6.jpg
+exec_always --no-startup-id wal ~/dl/wp6.jpg
 
 # >_Bar
 exec_always --no-startup-id bash ~/.config/polybar/launch.sh
@@ -208,7 +209,7 @@ bindsym Mod1+d exec rofi -show drun -theme flat -config ~/.config/rofi/config
 
 # >_Firefox
 bindsym Mod1+shift+f exec firefox
-assign [class="Firefox"] $ws1 
+#assign [class="Firefox"] $ws1 
 
 # >_i3lock
 bindsym Mod1+shift+x exec i3lock

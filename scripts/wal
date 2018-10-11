@@ -1,5 +1,5 @@
 #!/bin/bash
 cd ~/.local/bin
-python3 wal $1
-cp ~/.cache/wal/colors-rofi-dark.rasi /usr/share/rofi/themes/colors-rofi-dark.rasi
+python3 wal -i $1
+sudo cp ~/.cache/wal/colors-rofi-dark.rasi /usr/share/rofi/themes/colors-rofi-dark.rasi
 

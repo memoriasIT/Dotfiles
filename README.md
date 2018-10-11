@@ -36,7 +36,6 @@
 &emsp;* Custom image (maybe moving?)<br>
 >_ Vash - Custom Shell with vim capabilities<br>
 >_ GNU Stow
->_ Polybar colors with pywal
 
 
 
