@@ -18,10 +18,10 @@
   <a href="https://github.com/hlissner/doom-emacs"> DOOM Emacs</a><br>
   
   <b>>_ Other: </b><br>
-  <b>>_</b><a href="https://github.com/DaveDavenport/rofi"> Rofi (app launcher)</a><br>
-  <b>>_</b><a href="https://github.com/ranger/ranger"> ranger (filemanager)</a><br>
-  <b>>_</b><a href="https://github.com/jaagr/polybar"> polybar (status bar)</a><br>
-  <b>>_</b><a href="https://www.mozilla.org/en-US/firefox/new/"> Firefox (browser)</a><br>
+  <a href="https://github.com/DaveDavenport/rofi"> Rofi (app launcher)</a><br>
+  <a href="https://github.com/ranger/ranger"> ranger (filemanager)</a><br>
+  <a href="https://github.com/jaagr/polybar"> polybar (status bar)</a><br>
+  <a href="https://www.mozilla.org/en-US/firefox/new/"> Firefox (browser)</a><br>
 
 
 </p>
@@ -32,31 +32,21 @@
 
 <img src="https://raw.githubusercontent.com/memoriasIT/Dotfiles-WIP/master/img/todo.png" height="40">
 <p>
->_ emacs<br>
+<b>>_ emacs</b><br>
 &emsp;* Custom Splash Screen<br>
->_ ranger<br> 
-&emsp;* Theme perfect? <br>
->_ Compton<br>
+<b>>_ Compton</b><br>
 &emsp;* Blur + animations<br>
->_ Keyboard images<br>
+<b>>_ Keyboard images</b><br>
 &emsp;* Add mod+e<br>
->_ neofetch<br>
+<b>>_ neofetch</b><br>
 &emsp;* Custom image (maybe moving?)<br>
->_ Vash - Custom Shell with vim capabilities<br>
->_ GNU Stow
+<b>>_ Vash - Custom Shell with vim capabilities</b><br>
+<b>>_ GNU Stow</b><br>
+<b>>_ Dunst</b><br>
+&emsp;* Have notifications<br>
+<b>>_ polybar</b><br>
+  &emsp;* Consider other status bar<br>
 
-  >_ dunst<br>
-  >_ zsh<br>
-
->_ i3wm<br>
->_ zsh<br>
->_ vim<br>
->_ polybar<br>
->_ i3lock<br>
->_ feh <br>
->_ dunst<br>
->_ firefox<br>
->_ htop -> gtop<br>
 
 </p>
 <p align="center">
