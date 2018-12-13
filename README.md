@@ -5,7 +5,12 @@
 <p> This is a personal project I have been wanting to make for a while, now it is finally coming to life.</p>
 <p> I am literally ricing everything, starting from i3 but with plans to edit all apps so I make it as confortable and efficient as it can be. </p>
 <p> However, I tend to change a lot of ideas with these, so that's why I don't think this will ever stop being a WIP.</p>
-<p> I will add some screenshots soon (and also update the keyboard layouts), but for now there aren't any. </p>
+<p> This is the current setup, still need to add vim shorcuts and fix some things that I would like to change.</p>
+
+
+<img src="https://raw.githubusercontent.com/memoriasIT/Dotfiles-WIP/master/img/pcjpg.jpg">
+
+
 
 <img src="https://raw.githubusercontent.com/memoriasIT/Dotfiles-WIP/master/img/Table%20of%20contents.png" height="40">
 <p>
